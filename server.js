@@ -37,7 +37,7 @@ if (!MARTA_API_KEY) {
 // =======================================
 
 const corsOptions = {
-  origin: ["https://sleong415.github.io", "http://localhost:3000"],
+  origin: ["https://wabluuu.github.io", "http://localhost:3000"],
   optionsSuccessStatus: 200,
 };
 
